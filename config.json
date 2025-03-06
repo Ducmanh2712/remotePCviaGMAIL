@@ -1,0 +1,7 @@
+{
+    "access_token": "YOUR_CLIENT_ACCESS_TOKEN",
+    "client_id": "YOUR_CLIENT_ID",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "refresh_token": "YOUR_REFRESH_TOKEN",
+    "user_gmail": "YOUR_GMAIL"
+}

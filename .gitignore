@@ -1,0 +1,42 @@
+# Bỏ qua file biên dịch (object files, executables)
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Bỏ qua file biên dịch của CMake
+CMakeCache.txt
+CMakeFiles/
+cmake-build-*/
+
+# Bỏ qua thư mục biên dịch
+/build/
+bin/
+out/
+
+# Bỏ qua file gỡ lỗi & logs
+*.log
+*.stackdump
+*.tmp
+
+# Bỏ qua VSCode settings
+.vscode/
+*.code-workspace
+
+# Bỏ qua file Makefile tự sinh
+Makefile
+makefile
+*.make
+token.json
+token.pickle
+
+# Bỏ qua file thư viện bên ngoài (nếu có)
+vendor/
+third_party/
+
+# Bỏ qua file tạm thời của hệ thống
+.DS_Store
+Thumbs.db
+
